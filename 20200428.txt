@@ -1,0 +1,56 @@
+2020/04/28 13:58:11: Running TDLR Completion script for completion date: 2020/04/27
+2020/04/28 13:58:11: Found 52 licenses to report
+2020/04/28 13:58:18: Login successfull
+2020/04/28 14:00:13: 1697942 Licence Updated
+2020/04/28 14:00:13: 1411281 Licence Updated
+2020/04/28 14:00:13: 1015149 Licence Updated
+2020/04/28 14:00:13: 1433636 Licence Updated
+2020/04/28 14:00:13: 1193674 Licence Updated
+2020/04/28 14:00:13: 1527127 Licence Updated
+2020/04/28 14:00:13: 985256 Licence Updated
+2020/04/28 14:00:13: 868575 Licence Updated
+2020/04/28 14:00:13: 1313394 Licence Updated
+2020/04/28 14:00:14: 1551177 Licence Updated
+2020/04/28 14:00:14: 1406920 Licence Updated
+2020/04/28 14:00:14: 1346875 Licence Updated
+2020/04/28 14:00:14: 1180340 Licence Updated
+2020/04/28 14:00:14: 1166907 Licence Updated
+2020/04/28 14:00:14: 1348379 Licence Updated
+2020/04/28 14:00:14: 1105781 Licence Updated
+2020/04/28 14:00:14: 1465064 Licence Updated
+2020/04/28 14:00:14: 1472997 Licence Updated
+2020/04/28 14:00:14: 1632561 Licence Updated
+2020/04/28 14:00:14: 1672697 Licence Updated
+2020/04/28 14:00:14: 1568861 Licence Updated
+2020/04/28 14:00:14: 1661007 Licence Updated
+2020/04/28 14:00:14: 1194643 Licence Updated
+2020/04/28 14:00:14: 941484 Licence Updated
+2020/04/28 14:00:14: 1312565 Licence Updated
+2020/04/28 14:00:14: 1615136 Licence Updated
+2020/04/28 14:00:14: 1499372 Licence Updated
+2020/04/28 14:00:14: 1548097 Licence Updated
+2020/04/28 14:00:14: 1637227 Licence Updated
+2020/04/28 14:00:14: 1502185 Licence Updated
+2020/04/28 14:00:14: 1200421 Licence Updated
+2020/04/28 14:00:14: 1313725 Licence Updated
+2020/04/28 14:00:14: 1152337 Licence Updated
+2020/04/28 14:00:15: 1668395 Licence Updated
+2020/04/28 14:00:15: 1759392 Licence Updated
+2020/04/28 14:00:15: 1768849 Licence Updated
+2020/04/28 14:00:15: 1634232 Licence Updated
+2020/04/28 14:00:15: 1044345 Licence Updated
+2020/04/28 14:00:15: 1632232 Licence Updated
+2020/04/28 14:00:15: 1101611 Licence Updated
+2020/04/28 14:00:15: 1631332 Licence Updated
+2020/04/28 14:00:15: 1509452 Licence Updated
+2020/04/28 14:00:15: 1225574 Licence Updated
+2020/04/28 14:00:15: 1146222 Licence Updated
+2020/04/28 14:00:15: 1082588 Licence Updated
+2020/04/28 14:00:15: 1083696 Licence Updated
+2020/04/28 14:00:15: 1566602 Licence Updated
+2020/04/28 14:00:15: 1340378 Licence Updated
+2020/04/28 14:00:15: 1246746 Licence Updated
+2020/04/28 14:00:15: 1629712 Licence Updated
+2020/04/28 14:00:15: 1564781 Licence Updated
+2020/04/28 14:00:15: 1595183 Licence Updated
+2020/04/28 14:00:15: Sending emails
